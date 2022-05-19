@@ -17,9 +17,9 @@ function multiplos(x, y) {
         }
 
     }
-    return soma
+    return console.log(soma)
 
 }
-console.log(multiplos(3, 5))
+multiplos(3,5);
 
 
